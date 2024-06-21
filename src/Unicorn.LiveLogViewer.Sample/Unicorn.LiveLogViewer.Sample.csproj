@@ -4,4 +4,8 @@
     <TargetFramework>net8.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Unicorn.LiveLogViewer\Unicorn.LiveLogViewer.csproj" />
+  </ItemGroup>
+
 </Project>
